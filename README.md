@@ -16,8 +16,10 @@ This is version 2 of the PCB made for Project Integration in Applied Computer Sc
 
 ## Renders
 
-![Front side](/Renders/front.png)
-
 ![Power circuitry](/Renders/power.png)
+
+![USB-C port](/Renders/usb-c.png)
+
+![Front side](/Renders/front.png)
 
 ![Back side](/Renders/back.png)
